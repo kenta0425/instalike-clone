@@ -1,38 +1,26 @@
-< Apllication Name >
+# サブ課題
+インスタグラムのようなサイトを作成しました
 
-Instalike
+## 基本情報
+・本番環境 : https://kt-instalike.herokuapp.com/
 
-====
+## 開発環境
+・Macbook Pro
+・Ruby 2.6.3p62
+・Rails 6.0.3.2
+・Cloud 9
+・Google Chrome
 
-< Overview >
-
-This application is a clone of instagarm.
-I made it for sub subject.
-It has some functions.
-
-
-1.Signup, User Delete
-
-2.Login, Logout
-
-3.Profile edit
-
-4.Post picture
-
-5.Post comments
-
-6.Like button
-
-7.Follow
-
-8.Notification
-
-9.Search
-
-====
+## 実装機能
+・サインイン、退会機能
+・ログイン、ログアウト機能
+・画像投稿機能
+・コメント機能
+・お気に入り機能
+・フォロー機能
+・通知機能
+・検索機能
 
 [MIT](https://github.com/kenta0425/instalike)
 
 ## Author
-
-[URL](https://kt-instalike.herokuapp.com/)

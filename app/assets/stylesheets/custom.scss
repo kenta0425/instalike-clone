@@ -224,6 +224,9 @@ input {
     img {
       display: block;
       padding: 5px 0;
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
     }
   }
   .gravatar {
@@ -347,3 +350,4 @@ dd{
   margin: 5px 0 5px 0;
   padding: 5px 0 5px 0;
 }
+
